@@ -1,0 +1,63 @@
+
+============================================================
+============================================================
+Training RNN with SGD
+Training RNN with SGD
+============================================================
+Epoch  1/10 | Train Loss: 0.3610, Acc: 0.8362 | Test Loss: 0.2190, Acc: 0.9210
+Epoch  6/10 | Train Loss: 0.0978, Acc: 0.9639 | Test Loss: 0.1176, Acc: 0.9480
+Epoch 10/10 | Train Loss: 0.0794, Acc: 0.9711 | Test Loss: 0.1077, Acc: 0.9610
+RNN + SGD finished. Best Test Acc: 0.9610
+
+============================================================
+Training RNN with Adam
+============================================================
+Epoch  1/10 | Train Loss: 0.1479, Acc: 0.9448 | Test Loss: 0.1117, Acc: 0.9570
+Epoch  6/10 | Train Loss: 0.0566, Acc: 0.9810 | Test Loss: 0.0786, Acc: 0.9760
+Epoch 10/10 | Train Loss: 0.0489, Acc: 0.9837 | Test Loss: 0.0900, Acc: 0.9710
+RNN + Adam finished. Best Test Acc: 0.9760
+
+============================================================
+Training GRU with SGD
+============================================================
+Epoch  1/10 | Train Loss: 0.5089, Acc: 0.7242 | Test Loss: 0.2539, Acc: 0.8960
+Epoch  6/10 | Train Loss: 0.0959, Acc: 0.9652 | Test Loss: 0.1169, Acc: 0.9500
+Epoch 10/10 | Train Loss: 0.0793, Acc: 0.9713 | Test Loss: 0.0987, Acc: 0.9540
+GRU + SGD finished. Best Test Acc: 0.9600
+
+============================================================
+Training GRU with Adam
+============================================================
+Epoch  1/10 | Train Loss: 0.1070, Acc: 0.9588 | Test Loss: 0.0773, Acc: 0.9670
+Epoch  6/10 | Train Loss: 0.0220, Acc: 0.9925 | Test Loss: 0.0665, Acc: 0.9830
+Epoch 10/10 | Train Loss: 0.0149, Acc: 0.9950 | Test Loss: 0.0971, Acc: 0.9760
+GRU + Adam finished. Best Test Acc: 0.9840
+
+============================================================
+Training LSTM with SGD
+============================================================
+Epoch  1/10 | Train Loss: 0.5929, Acc: 0.6665 | Test Loss: 0.3388, Acc: 0.8500
+Epoch  6/10 | Train Loss: 0.0955, Acc: 0.9650 | Test Loss: 0.1052, Acc: 0.9570
+Epoch 10/10 | Train Loss: 0.0770, Acc: 0.9725 | Test Loss: 0.0899, Acc: 0.9650
+LSTM + SGD finished. Best Test Acc: 0.9650
+
+============================================================
+Training LSTM with Adam
+============================================================
+Epoch  1/10 | Train Loss: 0.1105, Acc: 0.9580 | Test Loss: 0.0751, Acc: 0.9720
+Epoch  6/10 | Train Loss: 0.0218, Acc: 0.9927 | Test Loss: 0.0874, Acc: 0.9760
+Epoch 10/10 | Train Loss: 0.0126, Acc: 0.9957 | Test Loss: 0.1066, Acc: 0.9790
+LSTM + Adam finished. Best Test Acc: 0.9830
+
+======================================================================
+总结
+======================================================================
+Model  Optimizer Train Acc  Best Test Acc
+----------------------------------------------------------------------
+RNN    SGD      0.9711     0.9610
+RNN    Adam     0.9837     0.9760
+GRU    SGD      0.9713     0.9600
+GRU    Adam     0.9950     0.9840
+LSTM   SGD      0.9725     0.9650
+LSTM   Adam     0.9957     0.9830
+(pythonexercise) PS D:\code\exercise_240923> 

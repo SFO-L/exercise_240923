@@ -1,0 +1,10 @@
+/dataset/
+
+/exercise_awk_shell/outputs/*.txt
+!/exercise_awk_shell/outputs/输出文件太大没上传.txt
+
+/exercise_awk_shell/text8
+/Python/result/*
+!/Python/result/输出文件太大没上传.txt
+
+/.vscode

@@ -1,0 +1,21 @@
+Epoch 0: loss = 1.10, train_acc = 0.3500, test_acc = 0.2667
+Epoch 10: loss = 0.77, train_acc = 0.7000, test_acc = 0.5333
+Epoch 20: loss = 0.37, train_acc = 0.7667, test_acc = 0.8333
+Epoch 30: loss = 0.17, train_acc = 0.9083, test_acc = 0.9000
+Epoch 40: loss = 0.18, train_acc = 0.9000, test_acc = 0.8667
+Epoch 50: loss = 0.21, train_acc = 0.9917, test_acc = 0.9667
+Epoch 60: loss = 0.16, train_acc = 0.9167, test_acc = 0.9333
+Epoch 70: loss = 0.14, train_acc = 0.9833, test_acc = 0.9667
+Epoch 80: loss = 0.18, train_acc = 0.9917, test_acc = 0.9667
+Epoch 90: loss = 0.12, train_acc = 0.9250, test_acc = 0.9667
+Epoch 100: loss = 0.14, train_acc = 0.9250, test_acc = 0.9333
+Epoch 110: loss = 0.08, train_acc = 0.9667, test_acc = 0.9667
+Epoch 120: loss = 0.08, train_acc = 0.9833, test_acc = 0.9667
+Epoch 130: loss = 0.07, train_acc = 0.9833, test_acc = 1.0000
+Epoch 140: loss = 0.11, train_acc = 0.9667, test_acc = 0.9667
+Epoch 150: loss = 0.49, train_acc = 0.9750, test_acc = 0.9333
+Epoch 160: loss = 0.18, train_acc = 0.9500, test_acc = 0.9333
+Epoch 170: loss = 0.26, train_acc = 0.9250, test_acc = 0.9667
+Epoch 180: loss = 0.12, train_acc = 0.9333, test_acc = 0.9333
+Epoch 190: loss = 0.12, train_acc = 0.9833, test_acc = 0.9667
+New Samples, Class Predictions:    [1 2]
